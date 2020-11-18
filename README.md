@@ -1,2 +1,2 @@
 # GAN-practice
-GAN review
+GAN study
