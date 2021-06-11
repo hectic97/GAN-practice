@@ -1,2 +1,2 @@
 # GAN-practice
-GAN study
+## leucture: Coursera Deeplearning.AI Generative Adversarial Networks
